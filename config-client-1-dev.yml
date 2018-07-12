@@ -1,6 +1,6 @@
 spring:
   application:
-    foo: foo1
+    foo: foo8
   profiles:
     active: dev
 foo:

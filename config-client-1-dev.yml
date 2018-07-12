@@ -1,0 +1,7 @@
+spring:
+  application:
+    foo: foo1
+  profiles:
+    active: dev
+foo:
+  foo2
